@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# 欢迎来到 Eevee 的 Warcraft Orgasm Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这里是一个简单的魔兽世界怀旧服个人维基百科
 
-## Commands
+你可以点击 [这里](https://cn.classic.warcraftlogs.com/character/cn/%E6%97%A0%E7%95%8F/eevee/) 看到关于我角色的信息
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+本百科从TBC前夕开始更新,主要是给自己查阅,如果你有任何意见,欢迎不要来烦我
 
-## Project layout
+## 更新
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+2021.05.19 initialized project

@@ -1,3 +1,47 @@
-site_name: Warcraft Orgasm - 魔兽维基百科
+site_name: WARCRAFT ORGASM WIKI
+
+
+nav:
+  - 主页: index.md
+  - PVE神.野德养成:
+    - '核心数据': fural_druid_stats.md
+    - '天赋': fural_druid_talent.md
+    - '技能与输出': fural_druid_rotation.md
+    - 'P1野德装备路线': fural_druid_gear.md
+  - 最优化练级路线: 
+    - '第一阶段: 副本路线 (60 - 66)': leveling_dungeons.md
+    - '第一阶段: 任务路线 (60 - 66)': leveling_task.md
+    - '第二阶段: 休息与复盘 (66)': leveling_review.md
+    - '第三阶段: 多路线执行 (66 ~ 70)': leveling_final.md
+    - '第四阶段: 满级后路线 (70)': leveling_end.md
+  - 声望详解:
+    - '核心声望组': honor_primary.md
+    - '优先声望组': honor_secondary.md
+    - '次级声望组': honor_leisure.md
+  - 副本攻略:
+    - 五人副本:
+      - 地狱火半岛:
+        - '地狱火城墙': dungeon_hellfire_ramparts.md
+    - 十人副本:
+      - '卡拉赞': raid_karazhan.md
+    - 团队副本:
+      - '玛瑟里顿的巢穴': raid_magtheridons_lair.md
+  - 专业白皮书: 
+    - 辅助专业:
+      - '钓鱼': profession_fishing.md
+  - 团队配置: management_raid.md
+
+
 theme:
-  name: 'material'
+  languge: zh
+  name: material
+  palette:
+    scheme: slate
+    primary: deep orange
+    accent: lime
+  font:
+    text: Roboto Mono
+  features:
+    - navigation.top
+    - navigation.instant
+    - navigation.sections
